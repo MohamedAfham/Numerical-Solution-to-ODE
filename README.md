@@ -13,3 +13,5 @@ The exact solution of the above differential equation according to wolfram alpha
 <p align='center'>
 <img src='Exact Solution.png' height=200>
 </p>
+
+[Euler's method](https://en.wikipedia.org/wiki/Euler_method) is used to implement the numerical solution for the above equation which after a certain extent outputs nearly exact solution with not much computational power. 
