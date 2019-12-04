@@ -11,5 +11,5 @@ The differential equation obtained for solving the current is as follows.
 ### Exact Solution
 The exact solution of the above differential equation according to wolfram alpha is:
 <p align='center'>
-  <img src=''>
+<img src='Exact Solution.png' height=200>
 </p>
